@@ -12,8 +12,8 @@ I'm Sudesh Manjrekar. A 2nd year EXTC Engineering student at Xavier Institute of
 ## Things I am passionate about
 
 - Python :snake:
-- Learning new stuff :relaxed:
 - AI/ML :robot: + :camera:
+- Learning new stuff :relaxed:
 
 ## Get in touch :bell:
 
