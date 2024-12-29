@@ -7,10 +7,11 @@
  
 ## About Me
 
-I'm Sudesh Manjrekar. A 2nd year EXTC Engineering student at Xavier Institute of Engineering. I am passionate about programming and creating software that can be used for enhancing lives.
+I'm Sudesh Manjrekar. An EXTC Engineer with honours in AIML. I am passionate about programming and creating projects that can enhance lives.
 
 ## Things I am passionate about
 
+- Embedded Systems :computer:
 - Python :snake:
 - AI/ML :robot: + :camera:
 - Learning new stuff :relaxed:
